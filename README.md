@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/MeerMujtaba/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/MeerMujtaba/LeetCode-Problems/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/MeerMujtaba/LeetCode-Problems/tree/master/0169-majority-element) |
+| [1872-stone-game-viii](https://github.com/MeerMujtaba/LeetCode-Problems/tree/master/1872-stone-game-viii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/MeerMujtaba/LeetCode-Problems/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/MeerMujtaba/LeetCode-Problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/MeerMujtaba/LeetCode-Problems/tree/master/0009-palindrome-number) |
+| [1872-stone-game-viii](https://github.com/MeerMujtaba/LeetCode-Problems/tree/master/1872-stone-game-viii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/MeerMujtaba/LeetCode-Problems/tree/master/0053-maximum-subarray) |
+| [1872-stone-game-viii](https://github.com/MeerMujtaba/LeetCode-Problems/tree/master/1872-stone-game-viii) |
 ## Sorting
 |  |
 | ------- |
@@ -108,4 +111,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/MeerMujtaba/LeetCode-Problems/tree/master/0035-search-insert-position) |
+## Minimax
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/MeerMujtaba/LeetCode-Problems/tree/master/1872-stone-game-viii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/MeerMujtaba/LeetCode-Problems/tree/master/1872-stone-game-viii) |
+## Game Theory
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/MeerMujtaba/LeetCode-Problems/tree/master/1872-stone-game-viii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/MeerMujtaba/LeetCode-Problems/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
