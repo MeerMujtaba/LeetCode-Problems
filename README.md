@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/MeerMujtaba/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
+| [0032-longest-valid-parentheses](https://github.com/MeerMujtaba/LeetCode-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/MeerMujtaba/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [1872-stone-game-viii](https://github.com/MeerMujtaba/LeetCode-Problems/tree/master/1872-stone-game-viii) |
 ## Sorting
@@ -106,16 +107,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/MeerMujtaba/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/MeerMujtaba/LeetCode-Problems/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/MeerMujtaba/LeetCode-Problems/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/MeerMujtaba/LeetCode-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/MeerMujtaba/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/MeerMujtaba/LeetCode-Problems/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/MeerMujtaba/LeetCode-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0232-implement-queue-using-stacks](https://github.com/MeerMujtaba/LeetCode-Problems/tree/master/0232-implement-queue-using-stacks) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/MeerMujtaba/LeetCode-Problems/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/MeerMujtaba/LeetCode-Problems/tree/master/0032-longest-valid-parentheses) |
 ## Design
 |  |
 | ------- |
