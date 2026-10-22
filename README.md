@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/MeerMujtaba/LeetCode-Problems/tree/main/0005-longest-palindromic-substring) |
+| [0006-zigzag-conversion](https://github.com/MeerMujtaba/LeetCode-Problems/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/MeerMujtaba/LeetCode-Problems/tree/main/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/MeerMujtaba/LeetCode-Problems/tree/main/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/MeerMujtaba/LeetCode-Problems/tree/main/0032-longest-valid-parentheses) |
